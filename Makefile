@@ -12,6 +12,6 @@ install : index.html
 	install -m 0644 styles.css $(DOCROOT) 
 
 clean :
-	rm -f index.html postlist.m4
+	rm -f index.html postlist.m4 *.bak ${POSTS}/*.bak
 
 clobber : clean
