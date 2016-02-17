@@ -1,4 +1,4 @@
-<h2>Realistic Fire Starters<small>2016-02-17</small></h2>
+<h2>Be Realistic About Fire Starters, <small>2016-02-17</small></h2>
 
 <p>
 
@@ -18,7 +18,7 @@ like to suggest a simpler approach.
 
 <p>
 
-The good old fashioned <a href='http://amzn.com/B00711YQN8">BIC
+The good old fashioned <a href="http://amzn.com/B00711YQN8">BIC
 lighter can be purchased in bulk (50 lighters)</a> for less than
 one dollar each.  If you are willing to go with a generic brand
 butane lighter you can spend half of that!
