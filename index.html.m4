@@ -33,9 +33,9 @@
 
 					<h1>Glen Wiley</h1>
 
-               Although I held my first job as a professional programmer in
-               1987 my most significant experience working on Internet
-               Infrastructure came from serving as the lead Systems Architect
+               Since my first job as a programmer in
+               1987,  I have experience across the technology industry and
+					worked on Internet Infrastructure as the lead Systems Architect
                for Verisign's COM/NET DNS resolution platforms for over seven
                years.  The articles on this page reflect more than thirty years
                of experience systems software development, network management
@@ -43,6 +43,10 @@
                design.
 
                <p>
+
+					I spent 8 years enlisted in the U.S. Army Signal Corps,
+					after the first 6 months active duty I served in an 
+					MI SF company in the USAR and then later in the ARNG.
 
                My software projects (including this blog) are mostly maintained at <a href="https://github.com/glenwiley">Github</a>
 
