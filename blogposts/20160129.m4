@@ -1,4 +1,5 @@
 <h2>Simple Blog Hosting, <small>2016-01-29</small></h2>
+</a>
 
 After carefully reviewing many of the blog site building tools
 I decided to build my blog site on my own FreeBSD server using simple CSS
