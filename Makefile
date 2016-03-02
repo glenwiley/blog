@@ -10,6 +10,7 @@ postlist.m4 : blogposts
 install : index.html
 	install -m 0644 index.html $(DOCROOT) 
 	install -m 0644 styles.css $(DOCROOT) 
+	install -m 0644 images/* $(DOCROOT)
 
 clean :
 	rm -f index.html postlist.m4 *.bak ${POSTS}/*.bak
