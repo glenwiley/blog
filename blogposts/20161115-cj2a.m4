@@ -1,4 +1,4 @@
-<h2>Willy's Jeep CJ2A<small>2016-11-16</small></h2>
+<h2>Willy's Jeep CJ2A, <small>2016-11-16</small></h2>
 </a>
 
 As long as I can remember I have wanted to own an "army
@@ -13,11 +13,28 @@ building a new car in order to restore them.
 
 <p>
 
-I finally found one that fit the bill in Bristol, Tennessee
-and managed to pick it up on November 14 for $2700.  Here is a picture of
-the jeep in my shop fresh from the 280 mile trip home:
-
 <img src="20161114-cj2a-side-web.jpg" alt="1947 Willy's CJ2A" style="float:right">
+
+<p>
+
+I finally found one that fit the bill in Bristol, Tennessee
+and managed to pick it up on November 14 for $2700.  I hauled the
+jeep home using my F350 and an equipment trailer that I normally
+use to pull a Bobcat skid steer. This made the trip a lot less
+difficult than it would have been with a lesser tow vehicle.  I had
+to make the trip there and back (over 250 miles each way) in a single day
+which meant leaving at 6am and getting home just before 8pm.
+
+<p>
+
+The first rest stop that I stopped at to tighten the straps led to a fun
+surprise.  Before I could get out of my truck there were guys coming up to
+see the jeep up close.  Folks wanted to take pictures and put their hands
+on it.  I was really surprised considering that there wasn't anything
+that made it stand out beyond the fact that it is a 1947 CJ2A!  Each time
+I stopped to adjust the straps I had folks come up and want to talk about
+the jeep.  It was a lot of fun to see some many other people enjoying
+looking at it as much as I do.
 
 <p>
 
